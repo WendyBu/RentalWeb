@@ -1,0 +1,9 @@
+erms_complete.sql:  table creation, data types, sample data
+add_incident.php:  SQL queries necessary to add incidents
+add_resource.php:  SQL queries necessary to add resources
+home.php:  SQL queries necessary to display basic information about the current user
+login.php:  No SQL queries used but necessary for credential verification process
+logout.php:  No SQL queries used but necessary to terminate current session
+report.php:  SQL queries necessary to return summary data about current user's resources
+search.php:  SQL queries necessary to return resource search data and allow request and repair actions
+status.php:  SQL queries necessary to return the user's current resource and request status(es)
